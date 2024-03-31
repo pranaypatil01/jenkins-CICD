@@ -1,1 +1,1 @@
-new auto new cicd pepiline
+   cicd pepiline
