@@ -1,1 +1,1 @@
-# make changes to build automatically
+build automatically
